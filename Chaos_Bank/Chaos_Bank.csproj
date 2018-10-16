@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1EFAD779-08B1-4644-8216-E16A398A3454}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Chaos_Bank</RootNamespace>
+    <AssemblyName>Chaos_Bank</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddBank.Designer.cs">
+      <DependentUpon>frmAddBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddClient.Designer.cs">
+      <DependentUpon>frmAddClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddClientToBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddClientToBank.Designer.cs">
+      <DependentUpon>frmAddClientToBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeposite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeposite.Designer.cs">
+      <DependentUpon>frmDeposite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepositeReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepositeReport.Designer.cs">
+      <DependentUpon>frmDepositeReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditClient.Designer.cs">
+      <DependentUpon>frmEditClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTransferReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTransferReport.Designer.cs">
+      <DependentUpon>frmTransferReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTransfers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTransfers.Designer.cs">
+      <DependentUpon>frmTransfers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewBalance.Designer.cs">
+      <DependentUpon>frmViewBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWithdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWithdraw.Designer.cs">
+      <DependentUpon>frmWithdraw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWithdrawReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWithdrawReport.Designer.cs">
+      <DependentUpon>frmWithdrawReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddBank.resx">
+      <DependentUpon>frmAddBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddClient.resx">
+      <DependentUpon>frmAddClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddClientToBank.resx">
+      <DependentUpon>frmAddClientToBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeposite.resx">
+      <DependentUpon>frmDeposite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepositeReport.resx">
+      <DependentUpon>frmDepositeReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditClient.resx">
+      <DependentUpon>frmEditClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTransferReport.resx">
+      <DependentUpon>frmTransferReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTransfers.resx">
+      <DependentUpon>frmTransfers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewBalance.resx">
+      <DependentUpon>frmViewBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWithdraw.resx">
+      <DependentUpon>frmWithdraw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWithdrawReport.resx">
+      <DependentUpon>frmWithdrawReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

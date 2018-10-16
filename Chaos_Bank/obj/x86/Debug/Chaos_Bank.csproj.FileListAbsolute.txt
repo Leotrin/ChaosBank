@@ -1,0 +1,42 @@
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\bin\Debug\Chaos_Bank.exe
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\bin\Debug\Chaos_Bank.pdb
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.Form1.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.Properties.Resources.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.exe
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.pdb
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmAddClient.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmEditClient.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmAddBank.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmAddClientToBank.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmViewBalance.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmDeposite.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmWithdraw.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmTransfers.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmAbout.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmDepositeReport.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmTransferReport.resources
+C:\Users\Leotrin\Documents\Visual Studio 2010\Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmWithdrawReport.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\bin\Debug\Chaos_Bank.exe
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\bin\Debug\Chaos_Bank.pdb
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.csprojAssemblyReference.cache
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.Form1.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmAbout.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmAddBank.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmAddClient.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmAddClientToBank.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmDeposite.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmDepositeReport.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmEditClient.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmTransferReport.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmTransfers.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmViewBalance.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmWithdraw.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.frmWithdrawReport.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.Properties.Resources.resources
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.csproj.GenerateResource.cache
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.exe
+C:\Users\Leo_l\Desktop\Capstone Projects\Chaos_Bank\Chaos_Bank\obj\x86\Debug\Chaos_Bank.pdb
